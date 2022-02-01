@@ -15,19 +15,19 @@ Meu nome é Estênio, sou pós graduado em desenvolvimento e gestão de sistemas
 </a> <a href="https://github.com/emso-exe/Falsificacao_de_cedulas_banco_central_do_brasil">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Falsificacao_de_cedulas_banco_central_do_brasil&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
 </a>
-<br>
+<br><br>
 <a href="https://github.com/emso-exe/LocalidadeX">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=LocalidadeX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
 </a> <a href="https://github.com/emso-exe/CepX">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=CepX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
 </a>
-<br>
+<br><br>
 <a href="https://github.com/emso-exe/Jogo_de_dadoX">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Jogo_de_dadoX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
 </a> <a href="https://github.com/emso-exe/Valida_DocumentoX">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Valida_DocumentoX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
 </a>
-<br>
+<br><br>
 <a href="https://github.com/emso-exe/CrudX">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=CrudX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
 </a>
