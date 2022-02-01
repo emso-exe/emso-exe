@@ -8,8 +8,6 @@ Meu nome é Estênio, sou pós graduado em desenvolvimento e gestão de sistemas
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/emso-exe)](https://github.com/emso-exe) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esteniomariano)](https://www.linkedin.com/in/esteniomariano)
 
-<br>
-
 ## 📊 Estatísticas do GitHub
 
 <br>
