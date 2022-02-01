@@ -10,6 +10,7 @@ Meu nome é Estênio, sou pós graduado em desenvolvimento e gestão de sistemas
 
 ## 📁 Repositórios de projetos
 
+<br>
 <a href="https://github.com/emso-exe/Reclamacoes_de_consumidores_com_empresa_de_telecomunicacoes">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Reclamacoes_de_consumidores_com_empresa_de_telecomunicacoes&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
 </a> <a href="https://github.com/emso-exe/Falsificacao_de_cedulas_banco_central_do_brasil">
