@@ -12,13 +12,13 @@ Meu nome é Estênio, sou pós graduado em desenvolvimento e gestão de sistemas
 
 </div>
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emso-exe&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emso-exe&layout=compact&langs_count=7&hide_border=true"/>
 
-## 📁 Repositórios de projetos
+## 📁 Repositórios
 
 <br>
 <a href="https://github.com/emso-exe/Reclamacoes_de_consumidores_com_empresa_de_telecomunicacoes">
