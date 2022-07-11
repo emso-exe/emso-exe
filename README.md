@@ -2,7 +2,7 @@
 
 <br>
 
-Meu nome é Estênio, sou pós graduado em desenvolvimento e gestão de sistemas e tecnólogo em processamento de dados, atualmente tenho me dedicado aos estudos de ciência de dados e programação (back-end).
+Meu nome é Estênio, sou pós graduado em desenvolvimento e gestão de sistemas, tecnólogo em processamento de dados e técnico em informática, atualmente tenho me dedicado aos estudos de análise e ciência de dados.
 
 <br>
 
