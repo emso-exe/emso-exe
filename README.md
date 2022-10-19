@@ -55,7 +55,3 @@ Meu nome é Estênio, sou pós graduado em desenvolvimento e gestão de sistemas
     <a href="https://github.com/emso-exe/CrudX">
         <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=CrudX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
-<br><br>
-    <a href="https://github.com/emso-exe/CrudX">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=CrudX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
-    </a>
