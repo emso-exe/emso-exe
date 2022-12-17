@@ -52,14 +52,13 @@ Meu nome é Estênio, sou pós graduado em desenvolvimento e gestão de sistemas
     <a href="https://github.com/emso-exe/CepX">
         <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=CepX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
-<br><br>
     <a href="https://github.com/emso-exe/Jogo_de_dadoX">
         <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Jogo_de_dadoX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
+<br><br>    
     <a href="https://github.com/emso-exe/Valida_DocumentoX">
         <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Valida_DocumentoX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
-<br><br>
     <a href="https://github.com/emso-exe/CrudX">
         <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=CrudX&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
