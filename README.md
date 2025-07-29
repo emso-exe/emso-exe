@@ -22,7 +22,7 @@ Tenho uma pós-graduação em desenvolvimento e gestão de sistemas, sou tecnól
 ## 📁 Repositórios
 
 <br>
-    <a href="[https://github.com/emso-exe/Previsao_de_demandas_de_drogarias](https://github.com/emso-exe/Deteccao_de_fraude_em_transacoes_financeiras)">
+    <a href="https://github.com/emso-exe/Previsao_de_demandas_de_drogarias">
         <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Deteccao_de_fraude_em_transacoes_financeiras&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
     <a href="https://github.com/emso-exe/Previsao_de_demandas_de_drogarias">
