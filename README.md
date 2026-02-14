@@ -21,6 +21,8 @@ Tenho uma pós-graduação em desenvolvimento e gestão de sistemas, sou tecnól
 
 <img height="180em" src="https://github-readme-streak-vercel.vercel.app?user=emso-exe&locale=pt_BR" alt="GitHub Streak" />
 
+<img src="https://github-readme-streak-vercel.vercel.app?user=emso-exe" alt="GitHub Streak" />
+
 ## 📁 Repositórios
 
 <br>
