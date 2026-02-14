@@ -19,7 +19,8 @@ Tenho uma pós-graduação em desenvolvimento e gestão de sistemas, sou tecnól
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emso-exe&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emso-exe&layout=compact&langs_count=7&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-vercel.vercel.app?user=emso-exe&locale=pt_BR" alt="GitHub Streak" />
+<img height="180em" src="https://streak-stats.demolab.com?user=emso-exe&locale=pt_BR" />
+
 
 <img height="180em" src="https://github-readme-streak-vercel.vercel.app?user=emso-exe" alt="GitHub Streak" />
 
