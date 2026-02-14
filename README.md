@@ -68,6 +68,6 @@ Tenho uma pós-graduação em desenvolvimento e gestão de sistemas, sou tecnól
 <a href="https://github.com/emso-exe/Comercio_eletronico_brasileiro">
   <img align="center"
        style="margin:1rem 0.5rem"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=emso-exe&repo=Comercio_eletronico_brasileiro&hide_border=true&bg_color=f2f2f2" />
+       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Comercio_eletronico_brasileiro&hide_border=true&bg_color=f2f2f2" />
 </a>
 
