@@ -19,10 +19,10 @@ Tenho uma pós-graduação em desenvolvimento e gestão de sistemas, sou tecnól
 
 <img height="180em" src="https://streak-stats.demolab.com?username=emso-exe&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emso-exe&layout=compact&langs_count=7&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=emso-exe&locale=pt_BR" />
+<img height="180em" src="https://streak-stats.demolab.com?user=emso-exe&locale=pt_BR" alt="GitHub Streak" />
 
+<img height="180em" src="https://streak-stats.demolab.com?user=emso-exe" alt="GitHub Streak" />
 
-<img height="180em" src="https://github-readme-streak-vercel.vercel.app?user=emso-exe" alt="GitHub Streak" />
 
 ## 📁 Repositórios
 
@@ -61,3 +61,13 @@ Tenho uma pós-graduação em desenvolvimento e gestão de sistemas, sou tecnól
     <a href="https://github.com/emso-exe/Comercio_eletronico_brasileiro">
         <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Comercio_eletronico_brasileiro&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
+
+
+
+
+<a href="https://github.com/emso-exe/Comercio_eletronico_brasileiro">
+  <img align="center"
+       style="margin:1rem 0.5rem"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=emso-exe&repo=Comercio_eletronico_brasileiro&hide_border=true&bg_color=f2f2f2" />
+</a>
+
