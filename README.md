@@ -17,57 +17,47 @@ Tenho uma pós-graduação em desenvolvimento e gestão de sistemas, sou tecnól
 
 <br>
 
-<img height="180em" src="https://streak-stats.demolab.com?username=emso-exe&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emso-exe&layout=compact&langs_count=7&hide_border=true"/>
+<!-- <img height="180em" src="https://streak-stats.demolab.com?username=emso-exe&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emso-exe&layout=compact&langs_count=7&hide_border=true"/> -->
 
-<img height="180em" src="https://streak-stats.demolab.com?user=emso-exe&locale=pt_BR" alt="GitHub Streak" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=emso-exe" alt="GitHub Streak" />
-
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=emso-exe&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emso-exe&layout=compact&langs_count=7&hide_border=true"/>
 
 ## 📁 Repositórios
 
 <br>
     <a href="https://github.com/emso-exe/Deteccao_de_fraude_em_transacoes_financeiras">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Deteccao_de_fraude_em_transacoes_financeiras&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Deteccao_de_fraude_em_transacoes_financeiras&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
     <a href="https://github.com/emso-exe/Previsao_de_demandas_de_drogarias">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Previsao_de_demandas_de_drogarias&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Previsao_de_demandas_de_drogarias&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
 <br><br>
     <a href="https://github.com/emso-exe/Analise_de_rh_-_people_analytics">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Analise_de_rh_-_people_analytics&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Analise_de_rh_-_people_analytics&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
     <a href="https://github.com/emso-exe/Venda_de_medicamentos_controlados_e_antimicrobianos_-_industrializados">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Venda_de_medicamentos_controlados_e_antimicrobianos_-_industrializados&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Venda_de_medicamentos_controlados_e_antimicrobianos_-_industrializados&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
 <br><br>
     <a href="https://github.com/emso-exe/Investidores_do_tesouro_direto">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Investidores_do_tesouro_direto&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Investidores_do_tesouro_direto&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
     <a href="https://github.com/emso-exe/Churn_clientes_de_banco">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Churn_clientes_de_banco&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Churn_clientes_de_banco&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
 <br><br>
     <a href="https://github.com/emso-exe/Anuncios_em_redes_sociais">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Anuncios_em_redes_sociais&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Anuncios_em_redes_sociais&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>   
     <a href="https://github.com/emso-exe/Compra_de_carro">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Compra_de_carro&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Compra_de_carro&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
 <br><br>
     <a href="https://github.com/emso-exe/Orcamento_de_redes_sociais_x_vendas">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Orcamento_de_redes_sociais_x_vendas&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Orcamento_de_redes_sociais_x_vendas&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
     <a href="https://github.com/emso-exe/Comercio_eletronico_brasileiro">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Comercio_eletronico_brasileiro&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emso-exe&repo=Comercio_eletronico_brasileiro&hide_border=true&bg_color=DEG,f2f2f2,ffffff" />
     </a>
 
-
-
-
-<a href="https://github.com/emso-exe/Comercio_eletronico_brasileiro">
-  <img align="center"
-       style="margin:1rem 0.5rem"
-       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=emso-exe&repo=Comercio_eletronico_brasileiro&hide_border=true&bg_color=f2f2f2" />
-</a>
 
